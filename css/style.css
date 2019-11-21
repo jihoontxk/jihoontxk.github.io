@@ -12,7 +12,16 @@ body {
 	font-family: 'Volkhov', serif;
 }
 
-@media only screen and (max-width: 750px) {   
+@media only screen and (max-width: 750px) {  
+	.owl-next {
+    margin-right: 20px;
+	}
+	.owl-prev {
+    margin-left: 20px;
+	}
+	#skills .skill{
+		margin-left: 0;
+	} 
 	#slides .titleContent{
 		margin-top: -80px;
 	} 
@@ -52,6 +61,15 @@ body {
 }
 
 @media only screen and (max-width: 500px) { 
+	.owl-next {
+    margin-right: 20px;
+	}
+	.owl-prev {
+    margin-left: 20px;
+	}
+	#skills .skill{
+		margin-left: 0;
+	}
 	#slides .titleContent{
 		margin-top: -80px;
 	}    

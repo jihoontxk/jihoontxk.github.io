@@ -30,7 +30,7 @@ $(document).ready(function() {
 	});
 
 	var typed = new Typed(".typed", {
-		strings: ["Full-Stack Developer", "Data Scientist", "App Developer"], 
+		strings: ["QA Automation Engineer", "Web Developer", "App Developer"], 
 		typeSpeed: 105,
 		loop: true,
 		startDelay: 1000,

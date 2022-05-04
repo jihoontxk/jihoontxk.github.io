@@ -12,6 +12,10 @@ body {
 	font-family: 'Volkhov', serif;
 }
 
+ul li {
+text-align:left
+}
+
 @media only screen and (max-width: 750px) {  
 	.owl-next {
     margin-right: 20px;
